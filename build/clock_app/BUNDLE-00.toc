@@ -1,0 +1,3 @@
+([('clock_app',
+   '/Users/saqibsmac/Desktop/ai_huawei_corvit_evening/p3/dist/clock_app',
+   'EXECUTABLE')],)
